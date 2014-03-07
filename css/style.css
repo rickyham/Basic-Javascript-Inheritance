@@ -1,0 +1,24 @@
+body{
+    font-family: "Helvetica Neue";
+    font-size: 11px;
+    background: url("../img/wallpaper.jpg") no-repeat center center;
+    background-size: cover;
+}
+
+header, footer{
+    color: #FFF;
+    margin-top: 20px;
+    letter-spacing: -.05em;
+    font-size: 6em;
+    font-weight: bold;
+    text-align: center;
+    text-transform: capitalize;
+    text-shadow: 1px 1px 0 rgba(0,0,0, 0.9);
+}
+
+footer{
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 0;
+}
